@@ -3,9 +3,9 @@
 
 ## Services
 
-### [User Service](https://github/com/MurrmanTech/LibraryApp_UserService)
+### [User Service](https://github.com/MurrmanTech/LibraryApp_UserService)
 
-### [Book Service](https://github/com/MurrmanTech/LibraryApp_BookService)
+### [Book Service](https://github.com/MurrmanTech/LibraryApp_BookService)
 
-### [Location Service](https://github/com/MurrmanTech/LibraryApp_LocationService)
+### [Location Service](https://github.com/MurrmanTech/LibraryApp_LocationService)
 
